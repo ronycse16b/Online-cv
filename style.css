@@ -1,0 +1,93 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.nav-bg{
+    background-color: #1e95da;
+    height: 80px;
+}
+ul  {
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+position: absolute;
+left: 50%;
+
+}
+ul li{
+padding:  30px 20px;
+   
+
+    list-style: none;
+ margin-left: 4px;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+
+
+  text-align: center;
+}
+ul li:hover{
+    background-color:#e70a0a ;
+transition: 0.7s;
+}
+.easily-text{
+    color:#1e95da ;
+}
+.bg-area{
+    background-image: url(../images/slider-01.jpg);
+    width: 100%;
+    height: 780px;
+    
+}
+.bg-area-details{
+    width: 50%;
+    padding: 130px 140px;
+
+}
+.bg-area-details h1{
+    font-size: 50px;
+}
+.heading-2{
+    font-size: 40px;
+    color: #033a5a;
+}
+.heading-3{
+    font-size: 25px;
+    color: #33a1e0;
+    
+}
+.btn{
+    margin-top: 50px;
+}
+.contact-btn{
+    background-image: linear-gradient(to right, #fc0808 , rgb(199, 0, 0));
+    
+    padding: 20px 40px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.contact-btn:hover{ background-image: linear-gradient(to right, #af0606 , rgb(65, 2, 2));
+}
+
+.we-can-hel-area
+{
+    padding: 100px ;
+  width: 100%;
+  height: 170px;
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+}
+.we-can-hel-area h1{
+    font-size: 40px;
+}
+.get-cv{
+    font-size: 25px;
+color:#1e95daa8;
+}
