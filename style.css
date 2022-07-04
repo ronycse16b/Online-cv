@@ -48,6 +48,8 @@ transition: 0.7s;
 }
 .bg-area{
     background-image: url(./images/slider-01.jpg);
+
+    background-repeat: no-repeat;
     width: 100%;
     height: 780px;
     
